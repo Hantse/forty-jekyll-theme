@@ -6,10 +6,7 @@ description: Portfolio of Laura Ait braham Information & UX Architect.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Laura Ait Braham
-street_address: Chaussée de Charleroi 116
-city: Brussels
-state: BE
-zip_code: 1000
+city: Located in Brussels
 country: Belgium
 
 # homepage tiles
@@ -17,7 +14,6 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-
 linkedin_url: https://www.linkedin.com/in/loneska/
 
 # build settings
