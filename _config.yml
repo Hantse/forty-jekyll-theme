@@ -11,7 +11,6 @@ city: Brussels
 state: BE
 zip_code: 1000
 country: Belgium
-phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
