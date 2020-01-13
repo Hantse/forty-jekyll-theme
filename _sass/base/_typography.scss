@@ -61,19 +61,6 @@
 		column-gap: 80px;
 	}
 
-	.col{
-		column-count: 1;
-	}
-
-	#two {
-		> .inner{
-			
-			> p{
-				column-count: 1;
-			}
-		}
-	}
-
 	h1, h2, h3, h4, h5, h6 {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
