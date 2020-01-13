@@ -3,7 +3,7 @@ title: Laura Ait Braham
 subtitle: Information & UX Architect
 email: laura.aitbraham@outlook.com
 description: Information & UX Architect.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Laura Ait Braham
 city: Located in Brussels
@@ -11,10 +11,10 @@ country: Belgium
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
-linkedin_url: https://www.linkedin.com/in/loneska/
+linkedin_url: https://www.linkedin.com/in/laura-aitbraham
 
 # build settings
 markdown: kramdown
