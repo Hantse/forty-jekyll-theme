@@ -16,10 +16,40 @@
 
 			> :nth-child(2n - 1) {
 				@include padding(4em, 0, (0, 3em, 0, 0));
-				border-right: solid 1px _palette(border);
 				width: 100%;
 				z-index: 1;
 			}
+
+			> .row{
+				> .col-md-4{
+					width:33.33%;
+					
+				}
+
+				> .border{
+					border-right: solid 1px _palette(border);
+				}
+			}
+
+			
+
+			> .split {
+				padding: 0;
+
+				> * {
+					@include padding(3em, 0, (0, 0, 0, 3em));
+					position: relative;
+
+					&:before {
+						border-top: solid 1px _palette(border);
+						content: '';
+						display: block;
+						margin-left: -3em;
+						position: absolute;
+						top: 0;
+						width: calc(100vw + 3em);
+					}
+				}
 
 				> :first-child {
 					&:before {
