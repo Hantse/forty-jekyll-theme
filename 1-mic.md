@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sodexo
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: MIC
+description: Branding & Showcase Site - 2017/2018
+image: assets/images/mic.jpg
 nav-menu: true
 ---
 
