@@ -13,10 +13,16 @@ The main idea was to be able to propose a catalog system with modular features t
 	<div class="row uniform">
     	<div class="6u"><span class="image fit"><img src="assets/images/HowtoAv.png" alt=""></span></div>
 		<div class="6u"><span class="image fit"><img src="assets/images/HowtoAp.png" alt=""></span></div>
+    </div>
+    <div class="row uniform">
         <div class="6u"><span class="image fit"><img src="assets/images/FaqAv.png" alt=""></span></div>
 		<div class="6u"><span class="image fit"><img src="assets/images/FaqAp.png" alt=""></span></div>
+    </div>
+    <div class="row uniform">
         <div class="6u"><span class="image fit"><img src="assets/images/HelpAv.png" alt=""></span></div>
 		<div class="6u"><span class="image fit"><img src="assets/images/HelpAp.png" alt=""></span></div>        
+    </div>
+    <div class="row uniform">
 		<div class="6u"><span class="image fit"><img src="assets/images/BetAv.png" alt=""></span></div>
 		<div class="6u"><span class="image fit"><img src="assets/images/BetAp.png" alt=""></span></div>
 	</div>
