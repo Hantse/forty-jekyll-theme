@@ -11,8 +11,8 @@ The main idea was to be able to propose a catalog system with modular features t
 
 <div class="box alt">
 	<div class="row uniform">
-    	<div class="6u"><span class="image fit"><img src="assets/images/HowToAv.png" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/HowToAp.png" alt=""></span></div>
+    	<div class="6u"><span class="image fit"><img src="assets/images/HowtoAv.png" alt=""></span></div>
+		<div class="6u"><span class="image fit"><img src="assets/images/HowtoAp.png" alt=""></span></div>
         <div class="6u"><span class="image fit"><img src="assets/images/FaqAv.png" alt=""></span></div>
 		<div class="6u"><span class="image fit"><img src="assets/images/FaqAp.png" alt=""></span></div>
         <div class="6u"><span class="image fit"><img src="assets/images/HelpAv.png" alt=""></span></div>
