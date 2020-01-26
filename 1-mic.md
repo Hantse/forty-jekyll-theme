@@ -11,5 +11,6 @@ My role was to highligh theirs projects by doing, for each of them, a graphic id
 
 Here is one of them, about IOT improving the quality of work in an openspace.
 
+<span class="image fit">
 ![alt text](assets/images/mic-1.jpg "Tech Office")
-
+</span>
