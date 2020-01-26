@@ -11,13 +11,13 @@ The main idea was to be able to propose a catalog system with modular features t
 
 <div class="box alt">
 	<div class="row uniform">
-    	<div class="6u"><span class="image fit"><img src="assets/images/HowToAv.jpg" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/HowToAp.jpg" alt=""></span></div>
-        <div class="6u"><span class="image fit"><img src="assets/images/FaqAv.jpg" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/FaqAp.jpg" alt=""></span></div>
-        <div class="6u"><span class="image fit"><img src="assets/images/HelpAv.jpg" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/HelpAp.jpg" alt=""></span></div>        
-		<div class="6u"><span class="image fit"><img src="assets/images/BetAv.jpg" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/BetAp.jpg" alt=""></span></div>
+    	<div class="6u"><span class="image fit"><img src="assets/images/HowToAv.png" alt=""></span></div>
+		<div class="6u"><span class="image fit"><img src="assets/images/HowToAp.png" alt=""></span></div>
+        <div class="6u"><span class="image fit"><img src="assets/images/FaqAv.png" alt=""></span></div>
+		<div class="6u"><span class="image fit"><img src="assets/images/FaqAp.png" alt=""></span></div>
+        <div class="6u"><span class="image fit"><img src="assets/images/HelpAv.png" alt=""></span></div>
+		<div class="6u"><span class="image fit"><img src="assets/images/HelpAp.png" alt=""></span></div>        
+		<div class="6u"><span class="image fit"><img src="assets/images/BetAv.png" alt=""></span></div>
+		<div class="6u"><span class="image fit"><img src="assets/images/BetAp.png" alt=""></span></div>
 	</div>
 </div>
