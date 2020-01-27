@@ -6,6 +6,12 @@ image: assets/images/sodexo.jfif
 nav-menu: true
 ---
 
+<style>
+.white{
+    background:white;
+}
+</style>
+
 ## Context of the project
 Sodexo recently gains the call for offer coming from the three different areas of Belgium (Wallonia, Flanders, Brussels) to be the only service provider of the service vouchers. 
 They already gained it several years before that’s why they already had platforms and apps which provided the service needed from the regions. The main goal was to, based on what they had, completely rethink and redo the platforms and mobile apps with a strong UX focus and accordingly with a lot of constraints from the 3 different specifications (for each region).
@@ -45,7 +51,7 @@ In production, I ran some beta tests and prepared and monitored a UX diary surve
     </div>
     <div class="row uniform">
         <div class="6u"><span class="image fit"><img src="assets/images/App_301_Service-vouchers-area-2.png" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/App_Dashboard-V2.png" alt=""></span></div>
+		<div class="6u"><span class="image fit white"><img src="assets/images/App_Dashboard-V2.png" alt=""></span></div>
     </div>
 </div>
 
@@ -61,15 +67,10 @@ I decided to meet the experts of the field and to review the current application
 I made some wireframes and usable prototypes of each flow to discuss with the product owners, UIs and some concerned developers. After some iterations, once validated by all, they could be designed by the UIs. Then, it had to be submitted to the region, which were often the time to discuss and defend the proposition that was made, considering the dev capacity, the constraints and the time allowed. I regularly did some review of the screens made (in Zeplin) to be sure that the applied design matched the UX view. I met real workers to invite them to execute simple tasks and to give me their feeling about the look and the usability of the new application compared to the old one. I took the opportunity of these tests to ask some questions about the weakness and strength of the current app and what they would add if they could. 
 I prepared a survey with a set of questions for when they will feel the need to receive some feedbacks about their new application.
 
-<style>
-.white{
-    background:white;
-}
-</style>
 
 <div class="box alt">
 	<div class="row uniform">
-    	<div class="6u"><span class="image fit white"><img src="assets/images/O1.png" alt=""></span></div>
+    	<div class="6u"><span class="image fit white"><img src="assets/images/01.png" alt=""></span></div>
 		<div class="6u"><span class="image fit white"><img src="assets/images/02.png" alt=""></span></div>
     </div>
     <div class="row uniform">
