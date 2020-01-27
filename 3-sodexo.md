@@ -61,21 +61,27 @@ I decided to meet the experts of the field and to review the current application
 I made some wireframes and usable prototypes of each flow to discuss with the product owners, UIs and some concerned developers. After some iterations, once validated by all, they could be designed by the UIs. Then, it had to be submitted to the region, which were often the time to discuss and defend the proposition that was made, considering the dev capacity, the constraints and the time allowed. I regularly did some review of the screens made (in Zeplin) to be sure that the applied design matched the UX view. I met real workers to invite them to execute simple tasks and to give me their feeling about the look and the usability of the new application compared to the old one. I took the opportunity of these tests to ask some questions about the weakness and strength of the current app and what they would add if they could. 
 I prepared a survey with a set of questions for when they will feel the need to receive some feedbacks about their new application.
 
+<style>
+.white{
+    background:white;
+}
+</style>
+
 <div class="box alt">
 	<div class="row uniform">
-    	<div class="6u"><span class="image fit"><img src="assets/images/O1.png" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/02.png" alt=""></span></div>
+    	<div class="6u"><span class="image fit white"><img src="assets/images/O1.png" alt=""></span></div>
+		<div class="6u"><span class="image fit white"><img src="assets/images/02.png" alt=""></span></div>
     </div>
     <div class="row uniform">
-        <div class="6u"><span class="image fit"><img src="assets/images/03.png" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/04.png" alt=""></span></div>
+        <div class="6u"><span class="image fit white"><img src="assets/images/03.png" alt=""></span></div>
+		<div class="6u"><span class="image fit white"><img src="assets/images/04.png" alt=""></span></div>
     </div>
     <div class="row uniform">
-        <div class="6u"><span class="image fit"><img src="assets/images/05.png" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/06.png" alt=""></span></div>
+        <div class="6u"><span class="image fit white"><img src="assets/images/05.png" alt=""></span></div>
+		<div class="6u"><span class="image fit white"><img src="assets/images/06.png" alt=""></span></div>
     </div>
     <div class="row uniform">
-        <div class="6u"><span class="image fit"><img src="assets/images/07.png" alt=""></span></div>
-		<div class="6u"><span class="image fit"><img src="assets/images/08.png" alt=""></span></div>
+        <div class="6u"><span class="image fit white"><img src="assets/images/07.png" alt=""></span></div>
+		<div class="6u"><span class="image fit white"><img src="assets/images/08.png" alt=""></span></div>
     </div>
 </div>
